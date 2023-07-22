@@ -1,2 +1,2 @@
-# CSE-MITRA
-student utility app
+# MITRA
+Student utility app
